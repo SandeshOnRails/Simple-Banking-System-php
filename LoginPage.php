@@ -9,7 +9,7 @@ $id = session_id();
     <title>Login</title>
     <link rel="stylesheet" type="text/css" href="EggFarmCSS.css"/>
 </head>
-<    >
+
 <div class="panel">
     <img id="sunPosition" src="../img/eggPlant2_files/image001.png" class="sunPosition">
     <br>
